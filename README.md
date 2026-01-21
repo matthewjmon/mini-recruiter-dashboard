@@ -41,6 +41,8 @@ The app demonstrates React fundamentals, proper state management, routing, and b
 
 ## Time Tracking
 
+Approximate total time spent: ~2 hours 10 minutes
+
 - Planning & brainstorming: 10–15 mins
 - Setup & boilerplate: 20 mins (streamlined with AI)
 - Component development & logic (Dashboard, ProfileDetail, Search, Favourites toggle): 40 mins
@@ -75,8 +77,8 @@ This approach also ensured time-effective completion of the technical test and a
    ```bash
    git clone https://github.com/matthewjmon/mini-recruiter-dashboard.git
    ```
-   
 2. Install dependencies:
+
    ```bash
    npm install
    ```
@@ -87,4 +89,3 @@ This approach also ensured time-effective completion of the technical test and a
    ```bash
    npm run dev
    ```
-
